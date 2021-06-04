@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Venbo.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-06-04T16:43:10.754Z</updated>
+    <updated>2021-06-04T16:45:19.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Venbo.github.io/"/>
     <link rel="self" href="https://Venbo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>venbo‘s blog</subtitle>
     <logo>https://Venbo.github.io/images/avatar.png</logo>
     <icon>https://Venbo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
